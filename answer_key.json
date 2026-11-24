@@ -1,0 +1,422 @@
+[
+ {
+  "id": "W01",
+  "study": "whose_left",
+  "question": "Put the lamp to the left of the sofa. Which spot (A, B, C or D)?",
+  "anchor": "sofa",
+  "facing": "toward",
+  "rel": "left",
+  "spot_labels": {
+   "A": "neither",
+   "B": "viewer",
+   "C": "neither",
+   "D": "object"
+  }
+ },
+ {
+  "id": "W02",
+  "study": "whose_left",
+  "question": "Put the lamp in front of the sofa. Which spot (A, B, C or D)?",
+  "anchor": "sofa",
+  "facing": "toward",
+  "rel": "front",
+  "spot_labels": {
+   "A": "neither",
+   "B": "neither",
+   "C": "neither",
+   "D": "both"
+  }
+ },
+ {
+  "id": "W03",
+  "study": "whose_left",
+  "question": "Put the lamp to the left of the sofa. Which spot (A, B, C or D)?",
+  "anchor": "sofa",
+  "facing": "side",
+  "rel": "left",
+  "spot_labels": {
+   "A": "neither",
+   "B": "object",
+   "C": "neither",
+   "D": "viewer"
+  }
+ },
+ {
+  "id": "W04",
+  "study": "whose_left",
+  "question": "Put the lamp in front of the sofa. Which spot (A, B, C or D)?",
+  "anchor": "sofa",
+  "facing": "side",
+  "rel": "front",
+  "spot_labels": {
+   "A": "viewer",
+   "B": "neither",
+   "C": "object",
+   "D": "neither"
+  }
+ },
+ {
+  "id": "W05",
+  "study": "whose_left",
+  "question": "Put the traffic cone to the left of the car. Which spot (A, B, C or D)?",
+  "anchor": "car",
+  "facing": "toward",
+  "rel": "left",
+  "spot_labels": {
+   "A": "viewer",
+   "B": "neither",
+   "C": "neither",
+   "D": "object"
+  }
+ },
+ {
+  "id": "W06",
+  "study": "whose_left",
+  "question": "Put the traffic cone in front of the car. Which spot (A, B, C or D)?",
+  "anchor": "car",
+  "facing": "toward",
+  "rel": "front",
+  "spot_labels": {
+   "A": "both",
+   "B": "neither",
+   "C": "neither",
+   "D": "neither"
+  }
+ },
+ {
+  "id": "W07",
+  "study": "whose_left",
+  "question": "Put the traffic cone to the left of the car. Which spot (A, B, C or D)?",
+  "anchor": "car",
+  "facing": "side",
+  "rel": "left",
+  "spot_labels": {
+   "A": "object",
+   "B": "viewer",
+   "C": "neither",
+   "D": "neither"
+  }
+ },
+ {
+  "id": "W08",
+  "study": "whose_left",
+  "question": "Put the traffic cone in front of the car. Which spot (A, B, C or D)?",
+  "anchor": "car",
+  "facing": "side",
+  "rel": "front",
+  "spot_labels": {
+   "A": "object",
+   "B": "neither",
+   "C": "viewer",
+   "D": "neither"
+  }
+ },
+ {
+  "id": "W09",
+  "study": "whose_left",
+  "question": "Put the plant to the left of the armchair. Which spot (A, B, C or D)?",
+  "anchor": "armchair",
+  "facing": "toward",
+  "rel": "left",
+  "spot_labels": {
+   "A": "object",
+   "B": "neither",
+   "C": "neither",
+   "D": "viewer"
+  }
+ },
+ {
+  "id": "W10",
+  "study": "whose_left",
+  "question": "Put the plant in front of the armchair. Which spot (A, B, C or D)?",
+  "anchor": "armchair",
+  "facing": "toward",
+  "rel": "front",
+  "spot_labels": {
+   "A": "neither",
+   "B": "neither",
+   "C": "neither",
+   "D": "both"
+  }
+ },
+ {
+  "id": "W11",
+  "study": "whose_left",
+  "question": "Put the plant to the left of the armchair. Which spot (A, B, C or D)?",
+  "anchor": "armchair",
+  "facing": "side",
+  "rel": "left",
+  "spot_labels": {
+   "A": "viewer",
+   "B": "neither",
+   "C": "neither",
+   "D": "object"
+  }
+ },
+ {
+  "id": "W12",
+  "study": "whose_left",
+  "question": "Put the plant in front of the armchair. Which spot (A, B, C or D)?",
+  "anchor": "armchair",
+  "facing": "side",
+  "rel": "front",
+  "spot_labels": {
+   "A": "neither",
+   "B": "viewer",
+   "C": "object",
+   "D": "neither"
+  }
+ },
+ {
+  "id": "W13",
+  "study": "whose_left",
+  "question": "Put the ball to the left of the person. Which spot (A, B, C or D)?",
+  "anchor": "person",
+  "facing": "toward",
+  "rel": "left",
+  "spot_labels": {
+   "A": "neither",
+   "B": "viewer",
+   "C": "neither",
+   "D": "object"
+  }
+ },
+ {
+  "id": "W14",
+  "study": "whose_left",
+  "question": "Put the ball in front of the person. Which spot (A, B, C or D)?",
+  "anchor": "person",
+  "facing": "toward",
+  "rel": "front",
+  "spot_labels": {
+   "A": "both",
+   "B": "neither",
+   "C": "neither",
+   "D": "neither"
+  }
+ },
+ {
+  "id": "W15",
+  "study": "whose_left",
+  "question": "Put the ball to the left of the person. Which spot (A, B, C or D)?",
+  "anchor": "person",
+  "facing": "side",
+  "rel": "left",
+  "spot_labels": {
+   "A": "viewer",
+   "B": "neither",
+   "C": "object",
+   "D": "neither"
+  }
+ },
+ {
+  "id": "W16",
+  "study": "whose_left",
+  "question": "Put the ball in front of the person. Which spot (A, B, C or D)?",
+  "anchor": "person",
+  "facing": "side",
+  "rel": "front",
+  "spot_labels": {
+   "A": "neither",
+   "B": "neither",
+   "C": "object",
+   "D": "viewer"
+  }
+ },
+ {
+  "id": "P01",
+  "study": "pointing",
+  "scene": "s8_near_n3_0",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "A",
+  "rival": "C",
+  "near_hand": "A",
+  "sep": 8,
+  "dist": "near",
+  "n": 3,
+  "target_is_nearest_hand": true
+ },
+ {
+  "id": "P02",
+  "study": "pointing",
+  "scene": "s8_near_n3_2",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "C",
+  "rival": "B",
+  "near_hand": "B",
+  "sep": 8,
+  "dist": "near",
+  "n": 3,
+  "target_is_nearest_hand": false
+ },
+ {
+  "id": "P03",
+  "study": "pointing",
+  "scene": "s8_far_n3_5",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "C",
+  "rival": "A",
+  "near_hand": "C",
+  "sep": 8,
+  "dist": "far",
+  "n": 3,
+  "target_is_nearest_hand": true
+ },
+ {
+  "id": "P04",
+  "study": "pointing",
+  "scene": "s8_far_n3_0",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "B",
+  "rival": "A",
+  "near_hand": "C",
+  "sep": 8,
+  "dist": "far",
+  "n": 3,
+  "target_is_nearest_hand": false
+ },
+ {
+  "id": "P05",
+  "study": "pointing",
+  "scene": "s15_near_n3_1",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "B",
+  "rival": "C",
+  "near_hand": "B",
+  "sep": 15,
+  "dist": "near",
+  "n": 3,
+  "target_is_nearest_hand": true
+ },
+ {
+  "id": "P06",
+  "study": "pointing",
+  "scene": "s15_near_n3_0",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "A",
+  "rival": "B",
+  "near_hand": "B",
+  "sep": 15,
+  "dist": "near",
+  "n": 3,
+  "target_is_nearest_hand": false
+ },
+ {
+  "id": "P07",
+  "study": "pointing",
+  "scene": "s15_far_n3_0",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "B",
+  "rival": "A",
+  "near_hand": "B",
+  "sep": 15,
+  "dist": "far",
+  "n": 3,
+  "target_is_nearest_hand": true
+ },
+ {
+  "id": "P08",
+  "study": "pointing",
+  "scene": "s15_far_n3_2",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "B",
+  "rival": "A",
+  "near_hand": "C",
+  "sep": 15,
+  "dist": "far",
+  "n": 3,
+  "target_is_nearest_hand": false
+ },
+ {
+  "id": "P09",
+  "study": "pointing",
+  "scene": "s30_near_n3_1",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "B",
+  "rival": "C",
+  "near_hand": "B",
+  "sep": 30,
+  "dist": "near",
+  "n": 3,
+  "target_is_nearest_hand": true
+ },
+ {
+  "id": "P10",
+  "study": "pointing",
+  "scene": "s30_near_n3_0",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "A",
+  "rival": "C",
+  "near_hand": "C",
+  "sep": 30,
+  "dist": "near",
+  "n": 3,
+  "target_is_nearest_hand": false
+ },
+ {
+  "id": "P11",
+  "study": "pointing",
+  "scene": "s30_far_n3_6",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "C",
+  "rival": "B",
+  "near_hand": "C",
+  "sep": 30,
+  "dist": "far",
+  "n": 3,
+  "target_is_nearest_hand": true
+ },
+ {
+  "id": "P12",
+  "study": "pointing",
+  "scene": "s30_far_n3_0",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "C",
+  "rival": "B",
+  "near_hand": "B",
+  "sep": 30,
+  "dist": "far",
+  "n": 3,
+  "target_is_nearest_hand": false
+ },
+ {
+  "id": "C1",
+  "study": "check",
+  "scene": "s30_near_n3_2",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "B",
+  "rival": "A",
+  "near_hand": "B",
+  "sep": 30,
+  "dist": "near",
+  "n": 3,
+  "target_is_nearest_hand": true
+ },
+ {
+  "id": "C2",
+  "study": "check",
+  "scene": "s30_near_n3_3",
+  "question": "Which object is the person pointing at?",
+  "letters": "ABC",
+  "target": "B",
+  "rival": "C",
+  "near_hand": "B",
+  "sep": 30,
+  "dist": "near",
+  "n": 3,
+  "target_is_nearest_hand": true
+ }
+]
